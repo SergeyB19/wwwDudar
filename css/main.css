@@ -1,3 +1,15 @@
-body {
+.main-text {
   color: red;
+}
+
+#text-in-p {
+  color: blue;
+}
+
+div p b, div i {
+  color: green;
+}
+
+div, .name-class, #id, div p {
+color: rosybrown;
 }

@@ -1,0 +1,17 @@
+#first {
+/*  background-color: #7f9ab3;
+  color: red;
+  background-image: url("https://images.squarespace-cdn.com/content/v1/61c4da8eb1b30a201b9669f2/1696691175374-MJY4VWB1KS8NU3DE3JK1/Sounds-of-Nature.jpg");
+  background-repeat: repeat-x;
+  background-position: center;*/
+  color: #3c3e40;
+  background: #7f9ab3 url("https://images.squarespace-cdn.com/content/v1/61c4da8eb1b30a201b9669f2/1696691175374-MJY4VWB1KS8NU3DE3JK1/Sounds-of-Nature.jpg") no-repeat center center;
+  height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#second {
+  height: 2000px;
+}
+
